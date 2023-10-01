@@ -26,4 +26,4 @@ Uma Landing Page, ou Página de Destino, é uma página web única criada para a
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através desse [link](https://www.figma.com/file/2QEvbJ9rE1sY92Hw90amMF/Horror-Game-LP-(Community)?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através desse [link](https://www.figma.com/file/2QEvbJ9rE1sY92Hw90amMF/Horror-Game-LP-(Community)?node-id=0%3A1&mode=dev).
